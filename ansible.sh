@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Atualizar repositórios
+# Atualizar repositóriosss 
 sudo apt update
 
 # Instalar Ansible
