@@ -26,4 +26,4 @@ sudo apt-get install -y terraform
 # Instala o cURL, ferramenta de transferência de dados em comandos
 sudo apt-get install -y curl
 
-echo "Todas as ferramentas foram instaladas com sucesso."
+echo "Todas as ferramentas foram instaladas com sucesso." 
