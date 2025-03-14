@@ -32,4 +32,4 @@ do
 done
 
 # Exibe mensagem informando que a instância foi iniciada com sucesso
-echo "A instância foi iniciada com sucesso."
+echo "A instância foi iniciada com sucesso.."
